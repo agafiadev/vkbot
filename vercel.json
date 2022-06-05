@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/**": {
+      "includeFiles": "data/**"
+    }
+  },
+  "github": {
+    "silent": true
+  }
+}
